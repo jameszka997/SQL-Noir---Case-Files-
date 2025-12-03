@@ -146,7 +146,7 @@ Thus **Thomas Brown** was the murderer.
 
 
 
-Much thanks for Hristo Bogoev, the creator of SQL Noir.
+*Much thanks for Hristo Bogoev, the creator of SQL Noir.*
 
 
 
