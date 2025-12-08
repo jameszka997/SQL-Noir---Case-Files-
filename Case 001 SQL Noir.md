@@ -21,6 +21,9 @@ Set in the gritty 1980s, a valuable briefcase has disappeared from the Blue Note
 *This is highlighted with the key being highlighted with phrase that helps to identify which foreign dataset the key is referring to*
 
 
+<img width="473" height="273" alt="Case 1 schema" src="https://github.com/user-attachments/assets/63de9c18-ef7a-4f70-83de-fdaa5091bdd5" />
+
+
 ***Case 1 contains 3 datatables***
 - crime_scene
 		○ Primary_key: id
