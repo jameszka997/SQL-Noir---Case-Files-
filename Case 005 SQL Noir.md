@@ -16,6 +16,11 @@ Find who sabotaged the microprocessor.
 ***Foreign key*** - Identifier within a dataset/table which references entry within a different dataset/table
 *This is highlighted with the key being highlighted with phrase that helps to identify which foreign dataset the key is referring to*
 
+**Schema**
+
+<img width="449" height="391" alt="Case 5 schema" src="https://github.com/user-attachments/assets/6ab656b3-f8d9-425d-8d3e-2e9214944c66" />
+
+
 
 ***Case 5 contains 7 datatables***
 - incident_reports
