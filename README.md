@@ -12,7 +12,7 @@ SQL Noir can be accessed through the following link: [SQL Noir](https://www.sqln
 
 The repository contains the workflow based on notes and work taken for the following cases:
 
-#Case 1 - The Vanishing Briefcase
+#[Case 1 - The Vanishing Briefcase] (https://github.com/jameszka997/SQL-Noir---Case-Files-/blob/main/Case%20001%20SQL%20Noir.md)
 
 #Case 2 - The Stolen Sound
 
