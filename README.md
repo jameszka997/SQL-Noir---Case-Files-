@@ -12,17 +12,17 @@ SQL Noir can be accessed through the following link: [SQL Noir](https://www.sqln
 
 The repository contains the workflow based on notes and work taken for the following cases:
 
-#[Case 1 - The Vanishing Briefcase] (https://github.com/jameszka997/SQL-Noir---Case-Files-/blob/main/Case%20001%20SQL%20Noir.md)
+#[Case 1 - The Vanishing Briefcase](https://github.com/jameszka997/SQL-Noir---Case-Files-/blob/main/Case%20001%20SQL%20Noir.md)
 
-#Case 2 - The Stolen Sound
+#[Case 2 - The Stolen Sound](https://github.com/jameszka997/SQL-Noir---Case-Files-/blob/main/Case%20002%20SQL%20Noir.md)
 
-#Case 3 - The Miami Marine Murder
+#[Case 3 - The Miami Marine Murder](https://github.com/jameszka997/SQL-Noir---Case-Files-/blob/main/Case%20003%20SQL%20Noir.md)
 
-#Case 4 - The Midnight Masquerade Murder
+#[Case 4 - The Midnight Masquerade Murder](https://github.com/jameszka997/SQL-Noir---Case-Files-/blob/main/Case%20004%20SQL%20Noir.md)
 
-#Case 5 - The Silicon Sabotage
+#[Case 5 - The Silicon Sabotage](https://github.com/jameszka997/SQL-Noir---Case-Files-/blob/main/Case%20005%20SQL%20Noir.md)
 
-#Case 6 - The Vanishing Diamond
+#[Case 6 - The Vanishing Diamond](https://github.com/jameszka997/SQL-Noir---Case-Files-/blob/main/Case%20006%20SQL%20Noir.md)
 
 
 
