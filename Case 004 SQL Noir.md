@@ -19,7 +19,9 @@ Reveal the true murderer of this complex case.
 
 
 **Schema layout**
-*apply picture of schema later*
+
+<img width="473" height="391" alt="Case 4 schema" src="https://github.com/user-attachments/assets/3b2199a7-2285-4dfa-b8cd-a0d5fca43361" />
+
 
 ***Case 3 contains 6 tables***
 - Person
