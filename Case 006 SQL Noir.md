@@ -16,6 +16,10 @@ Find who stole the diamond.
 ***Foreign key*** - Identifier within a dataset/table which references entry within a different dataset/table
 *This is highlighted with the key being highlighted with phrase that helps to identify which foreign dataset the key is referring to*
 
+**Schema**
+
+<img width="440" height="410" alt="Case 6 schema" src="https://github.com/user-attachments/assets/aadc403a-e9dc-4a5a-8edf-4379a00fe5e3" />
+
 
 ***Case 6 contains 6 datatables***
 - crime_scene
