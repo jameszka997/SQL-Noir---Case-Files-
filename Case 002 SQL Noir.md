@@ -25,6 +25,8 @@ In the neon glow of 1980s Los Angeles, the West Hollywood Records store was rock
 
 *This is highlighted with the key being highlighted with phrase that helps to identify which foreign dataset the key is referring to*
 
+<img width="320" height="254" alt="Case 2 schema" src="https://github.com/user-attachments/assets/a78ffd28-1136-40c0-b745-c7907012abcc" />
+
 
 ***Case 2 contains 4 datatables***
 - crime_scene
