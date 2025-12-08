@@ -1,8 +1,14 @@
-# SQL-Noir - Case-Files
+# 🔍︎ SQL-Noir - Case-Files-Solutions
+
+---
 
 This repository contains the workflow and solutions I have done to complete the currently available 6 Case Files at SQL Noir to practice SQL query workflows and tasks.
-The aim of this project was to practice and deepen my knowledge of SQL databases, queries and joining together separate datatables while practicing deductive & analytical thinking to arrive at a solution to the game problems.
 
+The aim of this project was to practice and deepen my knowledge of SQL databases, queries and joining together separate datatables while using deductive & analytical thinking to arrive at a solution to the games' problems.
+
+SQL Noir can be accessed through the following link: [SQL Noir](https://www.sqlnoir.com/)
+
+---
 
 The repository contains the workflow based on notes and work taken for the following cases:
 
@@ -17,3 +23,8 @@ The repository contains the workflow based on notes and work taken for the follo
 #Case 5 - The Silicon Sabotage
 
 #Case 6 - The Vanishing Diamond
+
+
+
+
+*Much thanks for Hristo Bogoev, the creator of SQL Noir.*
