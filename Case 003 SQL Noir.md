@@ -19,7 +19,9 @@ Find the murderer. (Start by finding the crime scene and go from there )
 
 
 **Schema layout and explanation**
-*apply picture of schema later*
+
+<img width="448" height="283" alt="Case 3 schema" src="https://github.com/user-attachments/assets/3c4cdb6a-caae-424d-b709-e9bde0e84fb6" />
+
 
 ***Case 3 contains 6 tables***
 - Crime_scene
